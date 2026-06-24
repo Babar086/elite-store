@@ -7,6 +7,10 @@
 }
 
 body{
+    body{
+    opacity:0;
+    transition:1s;
+    }
     background:#0a0f1f;
     color:white;
     line-height:1.6;
